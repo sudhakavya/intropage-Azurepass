@@ -30,7 +30,7 @@
 
    ![](image/intro7.png)
   
-1. Enter the Promo Code that you Copied from Previous Step and click **Claim Promo Code**.
+1. Enter the Promo Code that you copied from previous Step and click **Claim Promo Code**.
 
    ![](image/intro8.png)
    
@@ -69,8 +69,7 @@
 1. you can check whether the Virtual machine is in running or stop State in the **Resource** tab.
 
     ![](image/intro19.png)
-    
- 1. On the Next Page, Learn more about Azure resources.  
+      
    
    
    
