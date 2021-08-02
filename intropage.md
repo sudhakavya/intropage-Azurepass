@@ -26,7 +26,7 @@
 
    ![](image/intro6.png)
  
-1. Copy the **Azure pass** promo code provided under the **License** tab.
+1. Go back to the page, Grab the **Azure pass** promo code provided under the **License** tab.
 
    ![](image/intro7.png)
   
@@ -50,11 +50,11 @@
 
    ![](image/intro14.png)
    
-1. Your Azure account is Ready - Click Maybe later and Enjoy Azure Service.
+1. Your Azure account is Ready.
   
    ![](image/intro15.png)
    
-1. Click on **Launch Lab** under the Microsoft Account Credentials in the **Environment Details** tab.
+1. Go back to the page, Click on **Launch Lab** under the Microsoft Account Credentials in the **Environment Details** tab.
 
    ![](image/intro16.png)
    
