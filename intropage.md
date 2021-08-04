@@ -30,11 +30,11 @@
 
    ![](image/intro7.png)
   
-1. Enter the Promo Code that you copied from previous Step and click **Claim Promo Code**.
+1. Enter the promo code that you copied from previous step and click **Claim Promo Code**.
 
    ![](image/intro8.png)
    
-1. Wait until the Request get approved, This may take up to 5 minutes.
+1. Wait until the request get approved, This may take up to 5 minutes.
 
    ![](image/intro9.png)
 
@@ -54,7 +54,7 @@
   
    ![](image/intro15.png)
    
-1. Go back to the page, Click on **Launch Lab** under the Microsoft Account Credentials in the **Environment Details** tab.
+1. Go back to the page, Click on **Launch Lab** under the Microsoft account credentials in the **Environment Details** tab.
 
    ![](image/intro16.png)
    
@@ -66,7 +66,7 @@
 
    ![](image/intro18.png) 
    
-1. you can check whether the Virtual machine is in running or stop State in the **Resource** tab.
+1. you can check whether the virtual machine is in running or stop state in the **Resource** tab.
 
     ![](image/intro19.png)
       
